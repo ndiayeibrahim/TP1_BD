@@ -13,7 +13,7 @@
         "stopAtEntry": false,
         "cwd": "${workspaceRoot}/Deployment",
         "preLaunchTask": "Build game",
-        "console": "newExternalWindow"
+        "console": "externalTerminal"
       },
       {
         "name": "(knob) Launch",
